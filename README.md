@@ -5,7 +5,7 @@ A simple bot which echoes back the message typed in your Facebook page.
 # Tools used : 
 Django, Ngrok, Facebook Graph API
 
-Ngrok sets up secure tunnels to our localhost i.e. Ngrok gives web accessible URLs and tunnels all traffic from that URL to our localhost. Webhooks, a part of the Facebook Graph API, are used to send payload to the url provided by Ngrok and will be later handled by the bot.
+Ngrok sets up secure tunnels to our localhost i.e. Ngrok gives web accessible URLs and tunnels all traffic from that URL to our localhost. Webhooks, a feature provided by the Facebook Graph API, is used to send a HTTP POST request to the callback url of the app (provided by Ngrok), which will later be handled by the bot.
 
 # Installing Ngrok
 Go to [Ngrok's download page](https://ngrok.com/), download the zip file, unzip. 
@@ -19,10 +19,9 @@ For information about how to get the page access token and subscription for your
 
 Run the following commands. You need to setup Python 3:
 
-    git clone https://github.com/Gurupradeep/FBMessengerBot.git
-    cd bot
-    virtualenv env
-    source env/bin/activate
+    git clone https://github.com/PrajwalaTM/Facebook-Messenger-Bot.git
+    virtualenv fb-bot
+    source fb-bot/bin/activate
     pip install -r requirements.txt
     python manage.py runserver
 
