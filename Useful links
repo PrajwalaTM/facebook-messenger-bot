@@ -1,0 +1,97 @@
+FB CHAT BOT
+
+Tutorial followed 
+
+https://abhaykashyap.com/blog/post/tutorial-how-build-facebook-messenger-bot-using-django-ngrok
+
+What's a webhook?
+https://sendgrid.com/blog/whats-webhook/
+
+Setting up a webhook
+https://developers.facebook.com/docs/messenger-platform/guides/setup
+
+Receiving real time updates using webhooks
+https://developers.facebook.com/docs/graph-api/webhooks
+
+Webhook-reference
+https://developers.facebook.com/docs/messenger-platform/webhook-reference
+
+Message-received Callback (to understand the structure of callback)
+https://developers.facebook.com/docs/messenger-platform/webhook-reference/message
+
+Message-delivered callback
+https://developers.facebook.com/docs/messenger-platform/webhook-reference/message-delivered
+
+
+CSRF tokens
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet#Synchronizer_.28CSRF.29_Tokens
+
+What are class based views? Why should we use them?
+https://docs.djangoproject.com/en/1.10/topics/class-based-views/intro/
+
+Ngrok download
+https://ngrok.com/download
+
+Send API reference
+https://developers.facebook.com/docs/messenger-platform/send-api-reference#response
+
+
+
+Github link of the tutorial
+https://github.com/abhay1/django-facebook-messenger-bot-tutorial/blob/master/yomamabot/
+
+Echo message
+https://developers.facebook.com/docs/messenger-platform/webhook-reference/message-echo
+
+Graph API Webhooks
+https://developers.facebook.com/docs/graph-api/webhooks
+
+Facebook Page Used:
+https://www.facebook.com/goaarceebee
+
+Facebook App ID
+https://developers.facebook.com/apps/807636842709447/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
