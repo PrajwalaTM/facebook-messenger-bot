@@ -135,7 +135,7 @@ terminado==0.5
 Theano==0.7.0
 toolz==0.7.2
 tornado==4.2
-Twisted==16.6.0
+Twisted==22.1.0
 ujson==1.33
 unicodecsv==0.9.4
 virtualenv==15.0.3
