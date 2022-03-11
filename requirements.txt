@@ -86,7 +86,7 @@ pandas==0.16.2
 parsel==1.1.0
 patsy==0.3.0
 pep8==1.6.2
-Pillow==3.4.1
+Pillow==9.0.1
 pinax-blog==5.0.2
 pinax-theme-bootstrap==7.11.0
 ply==3.6
